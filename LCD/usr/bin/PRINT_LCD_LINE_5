@@ -1,0 +1,2 @@
+#!/bin/bash
+PRINT_LINE_LCD 32 0 "$@"

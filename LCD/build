@@ -1,0 +1,5 @@
+arm-linux-gnueabihf-g++ BusDevice.cpp SPIDevice.cpp main.cpp -o main
+arm-linux-gnueabihf-g++ BusDevice.cpp SPIDevice.cpp clear.cpp -o clear
+ arm-linux-gnueabihf-g++ space.cpp BusDevice.cpp SPIDevice.cpp -o space
+arm-linux-gnueabihf-g++  BusDevice.cpp SPIDevice.cpp initLCD.cpp -o initLCD
+arm-linux-gnueabihf-g++  BusDevice.cpp SPIDevice.cpp messageLine.cpp -o messageLine

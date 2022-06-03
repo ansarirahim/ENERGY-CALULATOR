@@ -1,0 +1,2 @@
+pasm -b tp_diff.p
+arm-linux-gnueabihf-g++  tp_diff.cpp -o tp_diff -lpthread -lprussdrv

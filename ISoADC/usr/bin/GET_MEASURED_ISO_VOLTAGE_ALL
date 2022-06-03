@@ -1,0 +1,13 @@
+ #!/bin/bash
+while true :
+do
+/home/debian/ISoADC/isoADC  0 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  1 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  2 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  3 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  4 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  4 10 0 19.85  2.0373
+/home/debian/ISoADC/isoADC  6 10 0 19.85  2.0373
+# 2.0373
+sleep 3
+done

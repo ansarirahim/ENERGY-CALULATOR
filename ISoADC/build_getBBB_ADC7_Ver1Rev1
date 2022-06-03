@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-g++ getBBB_ADC7_Ver1Rev1.cpp -o getBBB_ADC7_Ver1Rev1

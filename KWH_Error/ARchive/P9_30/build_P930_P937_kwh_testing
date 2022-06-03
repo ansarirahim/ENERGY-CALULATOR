@@ -1,0 +1,5 @@
+#pasm -b P930_P937_kwh.p
+#pasm -b P930_P937_kwh_1.p
+ pasm -b P930_P937_kwh_testing.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_error_testing.cpp  -o P930_P927_kwh_error_testing  -lpthread -lprussdrv
+

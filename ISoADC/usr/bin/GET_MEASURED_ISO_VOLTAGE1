@@ -1,0 +1,7 @@
+#/home/debian/ISoADC/isoADC1 0 10 0 12.2047
+#TWO ARGUMENTS ADDED 22.03.21 => m and c for linear
+#while true
+#do
+#sleep 1
+/home/debian/ISoADC/isoADC  1 10 0 19.85  2.0373 0.9768 0.026
+#done

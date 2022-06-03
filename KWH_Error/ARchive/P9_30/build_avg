@@ -1,0 +1,3 @@
+#!/bin/sh
+pasm -b P930_P937_kwh.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_errorAvg.cpp -o P930_P927_kwh_errorAvg  -lpthread -lprussdrv

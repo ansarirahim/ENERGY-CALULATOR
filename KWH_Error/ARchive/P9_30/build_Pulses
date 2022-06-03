@@ -1,0 +1,68 @@
+#pasm -b P930_P937_kwh_10.p
+#arm-linux-gnueabihf-g++  P930_P927_kwh_error10.cpp -o P930_P927_kwh_error10 -lpthread -lprussdrv
+pasm -b P930_P937_kwh_Pulses.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_error_Pulses.cpp -o P930_P927_kwh_error_Pulses -lpthread -lprussdrv
+
+
+pasm -b P930_P937_kwh_Pulses_1.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_error_Pulses_1.cpp -o P930_P927_kwh_error_Pulses_1 -lpthread -lprussdrv
+
+ pasm -b P930_P937_kwh_Pulses_10.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_10.cpp -o P930_P927_kwh_error_Pulses_10 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_20.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_20.cpp -o P930_P927_kwh_error_Pulses_20 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_30.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_30.cpp -o P930_P927_kwh_error_Pulses_30 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_40.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_40.cpp -o P930_P927_kwh_error_Pulses_40 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_50.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_50.cpp -o P930_P927_kwh_error_Pulses_50 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_60.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_60.cpp -o P930_P927_kwh_error_Pulses_60 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_70.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_70.cpp -o P930_P927_kwh_error_Pulses_70 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_80.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_80.cpp -o P930_P927_kwh_error_Pulses_80 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_90.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_90.cpp -o P930_P927_kwh_error_Pulses_90 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_100.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_100.cpp -o P930_P927_kwh_error_Pulses_100 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_200.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_200.cpp -o P930_P927_kwh_error_Pulses_200 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_300.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_300.cpp -o P930_P927_kwh_error_Pulses_300 -lpthread -lprussdrv
+
+
+pasm -b P930_P937_kwh_Pulses_400.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_400.cpp -o P930_P927_kwh_error_Pulses_400 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_500.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_500.cpp -o P930_P927_kwh_error_Pulses_500 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_600.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_600.cpp -o P930_P927_kwh_error_Pulses_600 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_700.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_700.cpp -o P930_P927_kwh_error_Pulses_700 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_800.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_800.cpp -o P930_P927_kwh_error_Pulses_800 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_900.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_900.cpp -o P930_P927_kwh_error_Pulses_900 -lpthread -lprussdrv
+
+pasm -b P930_P937_kwh_Pulses_1000.p
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_1000.cpp -o P930_P927_kwh_error_Pulses_1000 -lpthread -lprussdrv
+
+arm-linux-gnueabihf-g++ P930_P927_kwh_error_Pulses_N.cpp -o P930_P927_kwh_error_Pulses_N -lpthread -lprussdrv

@@ -1,0 +1,3 @@
+#!/bin/sh
+pasm -b Toggle30.p
+arm-linux-gnueabihf-g++  Toggle30.cpp -o Toggle30 -lpthread -lprussdrv

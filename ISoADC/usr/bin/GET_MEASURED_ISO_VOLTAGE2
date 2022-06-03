@@ -1,0 +1,15 @@
+ #!/bin/bash
+<<'debug'
+while true :
+do
+/home/debian/ISoADC/isoADC  2 10 0 19.5  2
+# 2.0373
+sleep 1
+done
+debug
+#TWO ARGUMENTS ADDED 22.03.21 => m and c for linear
+#while true
+#do
+#sleep 1
+/home/debian/ISoADC/isoADC  2 10 0 19.85  2.0373 0.9747 0.0276
+#done

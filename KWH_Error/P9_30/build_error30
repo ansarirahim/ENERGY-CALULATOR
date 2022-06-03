@@ -1,0 +1,3 @@
+#!/bin/sh
+pasm -b error30.p
+arm-linux-gnueabihf-g++  error30.cpp -o error30 -lpthread -lprussdrv

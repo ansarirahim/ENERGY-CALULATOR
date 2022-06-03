@@ -1,0 +1,7 @@
+ #!/bin/bash
+while true :
+do
+/home/debian/ISoADC/isoADC  0 10 0 19.85  2.0373
+# 2.0373
+sleep 1
+done

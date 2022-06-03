@@ -1,0 +1,2 @@
+pasm -b tp.p
+arm-linux-gnueabihf-g++  tp.cpp -o tp -lpthread -lprussdrv

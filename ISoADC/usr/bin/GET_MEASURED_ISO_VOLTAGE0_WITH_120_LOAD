@@ -1,0 +1,12 @@
+ #!/bin/bash
+<<debug
+while true :
+do
+/home/debian/ISoADC/isoADC  0 10 0 19.85  2.0373
+# 2.0373
+sleep 1
+done
+debug
+BBB_CCA_TEST_FT_RELAY8_OFF
+BBB_CCA_TEST_FT_RELAY7_ON
+/home/debian/ISoADC/isoADC  0 10 0 19.85  2.0373

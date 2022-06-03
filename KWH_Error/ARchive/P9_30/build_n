@@ -1,0 +1,2 @@
+pasm -b P930_P937_kwh_Pulses_1_N.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_error_Pulses_1_N.cpp -o P930_P927_kwh_error_Pulses_1_N -lpthread -lprussdrv

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+#pasm -b P930.p
+pasm -b P930_kwh.p
+arm-linux-gnueabihf-g++  P930_kwh_error.cpp -o P930kwh -lpthread -lprussdrv
+#arm-linux-gnueabihf-g++  P930.cpp -o P930 -lpthread -lprussdrv

@@ -1,0 +1,4 @@
+#!/bin/bash
+#line , col , message
+#/root/LCD/messageLine "$@"
+/root/LCD/messageSLine "$@"

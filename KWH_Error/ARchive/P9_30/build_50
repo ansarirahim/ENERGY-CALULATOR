@@ -1,0 +1,2 @@
+pasm -b P930_P937_kwh_50.p
+arm-linux-gnueabihf-g++  P930_P927_kwh_error50.cpp -o P930_P927_kwh_error50 -lpthread -lprussdrv
