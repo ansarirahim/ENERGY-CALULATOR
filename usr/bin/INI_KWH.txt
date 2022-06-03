@@ -1,0 +1,12 @@
+
+
+#!/bin/bash
+
+echo 112 > /sys/class/gpio/export
+echo 115 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio112/direction
+echo in > /sys/class/gpio/gpio115/direction
+echo rising > /sys/class/gpio/gpio115/edge
+echo rising > /sys/class/gpio/gpio112/edge
+
+

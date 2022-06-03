@@ -1,0 +1,5 @@
+#!/bin/bash
+while true
+do
+/root/160718/512/P9_30/P930_P927_kwh_error_P27 1
+done

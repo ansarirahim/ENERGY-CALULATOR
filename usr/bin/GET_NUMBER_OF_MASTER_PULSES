@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo /root/KWH_Error/TOggle/getNumberofMasterPulses "$@"

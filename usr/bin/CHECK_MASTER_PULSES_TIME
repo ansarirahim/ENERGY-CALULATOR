@@ -1,0 +1,3 @@
+#!/bin/bash
+#display time reuired to passed no. of pulses
+/root/01062020/30/mutCounting "$@"

@@ -1,0 +1,7 @@
+while true
+do
+ echo -ne "MUT="
+ cat /sys/class/gpio/gpio112/value
+echo -ne "MASTER="
+ cat /sys/class/gpio/gpio115/value
+done

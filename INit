@@ -1,0 +1,5 @@
+
+echo 115 > /sys/class/gpio/export
+ echo 112 > /sys/class/gpio/export
+echo in > /sys/class/gpio/gpio115/direction
+echo in > /sys/class/gpio/gpio112/direction

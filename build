@@ -1,0 +1,1 @@
+g++ simple.cpp  testGP.cpp  -o simple -pthread

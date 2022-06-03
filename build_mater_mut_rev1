@@ -1,0 +1,1 @@
+g++ master_mut_rev1.cpp  testGP.cpp  -o master_mut_rev1  -pthread

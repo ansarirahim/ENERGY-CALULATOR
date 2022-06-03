@@ -1,0 +1,1 @@
+g++ master.cpp  testGP.cpp  -o master -pthread

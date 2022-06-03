@@ -1,0 +1,1 @@
+gcc checkMut.c -o checkMut -pthread
